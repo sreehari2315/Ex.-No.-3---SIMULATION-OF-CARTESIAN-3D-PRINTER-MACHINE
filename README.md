@@ -48,20 +48,19 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Screenshot 2023-11-21 091209](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/be934d7f-6443-4836-abab-e49df3a8e874)
+![Screenshot 2023-11-21 091405](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/151ca6bb-71c6-469b-b4d2-aee61de531f5)
+![Screenshot 2023-11-21 091445](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/6f7e6739-9941-44b7-8554-45a62d56128e)
+![Screenshot 2023-11-21 091534](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/0abfc122-a02e-4a40-b53b-53f323dbe616)
+![Screenshot 2023-11-21 091622](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/901f0907-7a81-4d73-b6d9-88625d9683ec)
+![Screenshot 2023-11-21 091706](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/d97d80a1-f173-474f-828b-39502b731675)
+![Screenshot 2023-11-21 091830](https://github.com/sreehari2315/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139331590/35989a5a-88a3-4683-85d6-23cfe1afea4d)
 
-### Name: 
-### Register Number:
+### Name: Sree Hari K
+### Register Number:23000908
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
